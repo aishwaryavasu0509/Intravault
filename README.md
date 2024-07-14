@@ -5,15 +5,15 @@ Blockchain based evault for legal records
 ## Deployment and Setup
 ### Prerequisites
 
-### Manual Setup
-# Install Hyperledger Fabric
-# Connect CouchDB
-# Start the Fabric Network
-# Start the Application
+### Steps for Manual Setup
+ Install Hyperledger Fabric
+ Connect CouchDB
+ Start the Fabric Network
+ Start the Application
 
 ### Web Interfaces for Administration
 
-##Portainer
+####Portainer
 - Portainer is a web-based Docker management UI that can be accessed at `http://localhost:5000`.
 
 #### CouchDB
