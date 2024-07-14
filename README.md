@@ -2,14 +2,25 @@
 Blockchain based evault for legal records
 # Blockchain-based eVault for Legal Records
 
-## Deployment and Setup
-### Prerequisites
+## Tech stack
+# Front end
+- HTML
+- CSS
+- Javascript
+# Backend
+- Node.js
+- express.js
+# Blockchain
+- Hyperledger Fabric
+# Database
+- CouchDB
+- PostgreSQL
 
 ### Steps for Manual Setup
- Install Hyperledger Fabric
- Connect CouchDB
- Start the Fabric Network
- Start the Application
+- Install Hyperledger Fabric
+- Connect CouchDB
+- Start the Fabric Network
+- Start the Application
 
 ### Web Interfaces for Administration
 
